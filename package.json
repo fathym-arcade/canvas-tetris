@@ -1,1 +1,1 @@
-{ "name": "@fathym-arcade/astray", "version": "0.0.0", "scripts": { "build": "", "deploy": "npm version patch && npm run deploy:app", "deploy:app": "npm run build && npm publish ./ --access public" }}
+{ "name": "@fathym-arcade/canvas-tetris", "version": "0.0.0", "scripts": { "build": "", "deploy": "npm version patch && npm run deploy:app", "deploy:app": "npm run build && npm publish ./ --access public" }}
